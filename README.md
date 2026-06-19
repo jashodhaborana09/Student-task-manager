@@ -1,3 +1,7 @@
+![React](https://img.shields.io/badge/React-18-blue)
+![Node.js](https://img.shields.io/badge/Node.js-Express-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-success)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # 🎓 Student Task Manager
 
 A modern full-stack task management application designed for students to efficiently organize, prioritize, and track their academic tasks. Built with the MERN stack and JWT authentication, the application provides a secure and intuitive experience with a clean, responsive interface.
