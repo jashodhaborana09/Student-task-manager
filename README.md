@@ -1,7 +1,12 @@
 ![React](https://img.shields.io/badge/React-18-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-Express-green)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![License](https://img.shields.io/badge/License-MIT-yellow)'
+## 🚀 Live Demo
+
+Frontend: https://student-task-manager-azure.vercel.app
+
+Backend API: https://student-task-manager-api-ct1u.onrender.com/api/health
 # 🎓 Student Task Manager
 
 A modern full-stack task management application designed for students to efficiently organize, prioritize, and track their academic tasks. Built with the MERN stack and JWT authentication, the application provides a secure and intuitive experience with a clean, responsive interface.
